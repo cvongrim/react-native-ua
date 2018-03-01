@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/colinvongrimmenstein/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1a06c58a184f8c2c9ecf8e513343249b/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/colinvongrimmenstein/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1a06c58a184f8c2c9ecf8e513343249b/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_action.xml",
+        "source": "/Users/colinvongrimmenstein/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1a06c58a184f8c2c9ecf8e513343249b/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/colinvongrimmenstein/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1a06c58a184f8c2c9ecf8e513343249b/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

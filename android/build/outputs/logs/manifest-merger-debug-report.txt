@@ -1,0 +1,65 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/src/main/AndroidManifest.xml:1:1-20:12
+INJECTED from /Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/src/main/AndroidManifest.xml:1:1-20:12
+INJECTED from /Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/src/main/AndroidManifest.xml:1:1-20:12
+INJECTED from /Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/src/main/AndroidManifest.xml:1:1-20:12
+INJECTED from /Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/src/main/AndroidManifest.xml:1:1-20:12
+INJECTED from /Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/src/main/AndroidManifest.xml:1:1-20:12
+INJECTED from /Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/src/main/AndroidManifest.xml:1:1-20:12
+	package
+		ADDED from /Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/src/main/AndroidManifest.xml:2:5-38
+		INJECTED from /Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/src/main/AndroidManifest.xml
+		ADDED from /Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/src/main/AndroidManifest.xml:1:1-20:12
+		INJECTED from /Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/src/main/AndroidManifest.xml
+		ADDED from /Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/src/main/AndroidManifest.xml:1:1-20:12
+		INJECTED from /Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/src/main/AndroidManifest.xml:4:5-19:19
+receiver#com.globo.reactnativeua.ReactNativeUAReceiver
+ADDED from /Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/src/main/AndroidManifest.xml:5:9-13:20
+	android:exported
+		ADDED from /Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/src/main/AndroidManifest.xml:7:13-37
+	android:name
+		ADDED from /Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/src/main/AndroidManifest.xml:6:13-73
+intent-filter#${applicationId}+com.urbanairship.push.OPENED+com.urbanairship.push.RECEIVED
+ADDED from /Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/src/main/AndroidManifest.xml:8:13-12:29
+action#com.urbanairship.push.OPENED
+ADDED from /Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/src/main/AndroidManifest.xml:9:17-70
+	android:name
+		ADDED from /Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/src/main/AndroidManifest.xml:9:25-68
+action#com.urbanairship.push.RECEIVED
+ADDED from /Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/src/main/AndroidManifest.xml:10:17-72
+	android:name
+		ADDED from /Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/src/main/AndroidManifest.xml:10:25-70
+category#${applicationId}
+ADDED from /Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/src/main/AndroidManifest.xml:11:17-60
+	android:name
+		ADDED from /Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/src/main/AndroidManifest.xml:11:27-58
+meta-data#com.urbanairship.autopilot
+ADDED from /Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/src/main/AndroidManifest.xml:15:9-17:77
+	android:value
+		ADDED from /Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/src/main/AndroidManifest.xml:17:13-75
+	android:name
+		ADDED from /Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/src/main/AndroidManifest.xml:16:13-54
+uses-sdk
+INJECTED from /Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/src/main/AndroidManifest.xml
+INJECTED from /Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/src/main/AndroidManifest.xml
+INJECTED from /Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/src/main/AndroidManifest.xml
+INJECTED from /Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/src/main/AndroidManifest.xml
+		ADDED from /Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/src/main/AndroidManifest.xml
+		ADDED from /Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/src/main/AndroidManifest.xml

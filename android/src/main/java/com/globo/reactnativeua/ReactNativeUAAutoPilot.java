@@ -1,5 +1,6 @@
 package com.globo.reactnativeua;
 
+import android.net.Uri;
 import android.util.Log;
 
 import com.urbanairship.Autopilot;
@@ -7,6 +8,8 @@ import com.urbanairship.UAirship;
 import com.urbanairship.actions.OpenExternalUrlAction;
 import com.urbanairship.push.notifications.DefaultNotificationFactory;
 import com.urbanairship.push.notifications.NotificationFactory;
+
+import static com.urbanairship.UAirship.getPackageName;
 
 public class ReactNativeUAAutoPilot extends Autopilot {
 
@@ -29,6 +32,11 @@ public class ReactNativeUAAutoPilot extends Autopilot {
         if (largeIconResourceId != 0) {
             defaultNotifFactory.setLargeIcon(largeIconResourceId);
         }
+
+        Uri uri= Uri.parse("android.resource://"+getPackageName()+"/raw/car_honks_2x");
+
+        defaultNotifFactory.setSound(uri);
+
         UAirship.shared().getPushManager().setNotificationFactory(defaultNotifFactory);
     }
 
@@ -38,6 +46,9 @@ public class ReactNativeUAAutoPilot extends Autopilot {
         if (notifFactory instanceof DefaultNotificationFactory) {
             return (DefaultNotificationFactory) notifFactory;
         }
+        Uri uri= Uri.parse("android.resource://"+getPackageName()+"/raw/car_honks_2x");
+
+        notifFactory.setSound(uri);
         return new DefaultNotificationFactory(UAirship.getApplicationContext());
     }
 }

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/build/intermediates/res/merged/androidTest/debug/drawable-v21/ua_iam_background.xml",
+        "source": "/Users/colinvongrimmenstein/.gradle/caches/transforms-1/files-1.1/urbanairship-sdk-8.0.4.aar/0b40ea7be68d2a9e0abce5cbba8579da/res/drawable-v21/ua_iam_background.xml"
+    },
+    {
+        "merged": "/Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/colinvongrimmenstein/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1a06c58a184f8c2c9ecf8e513343249b/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/colinvongrimmenstein/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1a06c58a184f8c2c9ecf8e513343249b/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/build/intermediates/res/merged/androidTest/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/colinvongrimmenstein/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1a06c58a184f8c2c9ecf8e513343249b/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/colinvongrimmenstein/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1a06c58a184f8c2c9ecf8e513343249b/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/build/intermediates/res/merged/androidTest/debug/drawable-v21/ua_item_mc_background.xml",
+        "source": "/Users/colinvongrimmenstein/.gradle/caches/transforms-1/files-1.1/urbanairship-sdk-8.0.4.aar/0b40ea7be68d2a9e0abce5cbba8579da/res/drawable-v21/ua_item_mc_background.xml"
+    }
+]

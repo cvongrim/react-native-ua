@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v13/values-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/colinvongrimmenstein/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1a06c58a184f8c2c9ecf8e513343249b/res/values-v13/values-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/build/intermediates/res/merged/androidTest/debug/values-v13/values-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/colinvongrimmenstein/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1a06c58a184f8c2c9ecf8e513343249b/res/values-v13/values-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        }
+    ]
+}

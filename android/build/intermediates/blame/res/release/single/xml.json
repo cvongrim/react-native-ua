@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/Users/colinvongrimmenstein/.gradle/caches/transforms-1/files-1.1/react-native-0.42.3.aar/29ad0ff65fb8675fa874c64de4f4d444/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/build/intermediates/res/merged/release/xml/ua_notification_buttons.xml",
+        "source": "/Users/colinvongrimmenstein/.gradle/caches/transforms-1/files-1.1/urbanairship-sdk-8.0.4.aar/53e046676294cb5abb3a7cafde1a5229/res/xml/ua_notification_buttons.xml"
+    }
+]
