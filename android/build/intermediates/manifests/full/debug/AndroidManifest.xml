@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.globo.reactnativeua"
+    android:versionCode="1"
+    android:versionName="1.1" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="25" />
+
+    <application>
+        <receiver
+            android:name="com.globo.reactnativeua.ReactNativeUAReceiver"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.urbanairship.push.OPENED" />
+                <action android:name="com.urbanairship.push.RECEIVED" />
+
+                <category android:name="${applicationId}" />
+            </intent-filter>
+        </receiver>
+
+        <meta-data
+            android:name="com.urbanairship.autopilot"
+            android:value="com.globo.reactnativeua.ReactNativeUAAutoPilot" />
+    </application>
+
+</manifest>

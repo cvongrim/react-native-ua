@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/build/intermediates/res/merged/release/drawable-v21/ua_iam_background.xml",
+        "source": "/Users/colinvongrimmenstein/.gradle/caches/transforms-1/files-1.1/urbanairship-sdk-8.0.4.aar/53e046676294cb5abb3a7cafde1a5229/res/drawable-v21/ua_iam_background.xml"
+    },
+    {
+        "merged": "/Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/colinvongrimmenstein/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/d6aa1dff351a23b8b0fd03e5cab4e892/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/build/intermediates/res/merged/release/drawable-v21/ua_item_mc_background.xml",
+        "source": "/Users/colinvongrimmenstein/.gradle/caches/transforms-1/files-1.1/urbanairship-sdk-8.0.4.aar/53e046676294cb5abb3a7cafde1a5229/res/drawable-v21/ua_item_mc_background.xml"
+    },
+    {
+        "merged": "/Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/colinvongrimmenstein/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/d6aa1dff351a23b8b0fd03e5cab4e892/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/colinvongrimmenstein/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/d6aa1dff351a23b8b0fd03e5cab4e892/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/colinvongrimmenstein/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/d6aa1dff351a23b8b0fd03e5cab4e892/res/drawable-v21/notification_action_background.xml"
+    }
+]

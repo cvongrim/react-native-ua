@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/build/intermediates/res/merged/androidTest/debug/layout-v14/ua_item_mc.xml",
+        "source": "/Users/colinvongrimmenstein/.gradle/caches/transforms-1/files-1.1/urbanairship-sdk-8.0.4.aar/0b40ea7be68d2a9e0abce5cbba8579da/res/layout-v14/ua_item_mc.xml"
+    },
+    {
+        "merged": "/Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/build/intermediates/res/merged/androidTest/debug/layout-v14/ua_iam_button.xml",
+        "source": "/Users/colinvongrimmenstein/.gradle/caches/transforms-1/files-1.1/urbanairship-sdk-8.0.4.aar/0b40ea7be68d2a9e0abce5cbba8579da/res/layout-v14/ua_iam_button.xml"
+    },
+    {
+        "merged": "/Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/build/intermediates/res/merged/androidTest/debug/layout-v14/ua_fragment_message.xml",
+        "source": "/Users/colinvongrimmenstein/.gradle/caches/transforms-1/files-1.1/urbanairship-sdk-8.0.4.aar/0b40ea7be68d2a9e0abce5cbba8579da/res/layout-v14/ua_fragment_message.xml"
+    },
+    {
+        "merged": "/Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/build/intermediates/res/merged/androidTest/debug/layout-v14/ua_fragment_iam_card.xml",
+        "source": "/Users/colinvongrimmenstein/.gradle/caches/transforms-1/files-1.1/urbanairship-sdk-8.0.4.aar/0b40ea7be68d2a9e0abce5cbba8579da/res/layout-v14/ua_fragment_iam_card.xml"
+    },
+    {
+        "merged": "/Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/build/intermediates/res/merged/androidTest/debug/layout-v14/ua_fragment_mc.xml",
+        "source": "/Users/colinvongrimmenstein/.gradle/caches/transforms-1/files-1.1/urbanairship-sdk-8.0.4.aar/0b40ea7be68d2a9e0abce5cbba8579da/res/layout-v14/ua_fragment_mc.xml"
+    },
+    {
+        "merged": "/Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/build/intermediates/res/merged/androidTest/debug/layout-v14/ua_fragment_iam.xml",
+        "source": "/Users/colinvongrimmenstein/.gradle/caches/transforms-1/files-1.1/urbanairship-sdk-8.0.4.aar/0b40ea7be68d2a9e0abce5cbba8579da/res/layout-v14/ua_fragment_iam.xml"
+    },
+    {
+        "merged": "/Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/build/intermediates/res/merged/androidTest/debug/layout-v14/ua_iam_content.xml",
+        "source": "/Users/colinvongrimmenstein/.gradle/caches/transforms-1/files-1.1/urbanairship-sdk-8.0.4.aar/0b40ea7be68d2a9e0abce5cbba8579da/res/layout-v14/ua_iam_content.xml"
+    },
+    {
+        "merged": "/Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/build/intermediates/res/merged/androidTest/debug/layout-v14/ua_item_mc_icon_content.xml",
+        "source": "/Users/colinvongrimmenstein/.gradle/caches/transforms-1/files-1.1/urbanairship-sdk-8.0.4.aar/0b40ea7be68d2a9e0abce5cbba8579da/res/layout-v14/ua_item_mc_icon_content.xml"
+    },
+    {
+        "merged": "/Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/build/intermediates/res/merged/androidTest/debug/layout-v14/ua_item_mc_content.xml",
+        "source": "/Users/colinvongrimmenstein/.gradle/caches/transforms-1/files-1.1/urbanairship-sdk-8.0.4.aar/0b40ea7be68d2a9e0abce5cbba8579da/res/layout-v14/ua_item_mc_content.xml"
+    },
+    {
+        "merged": "/Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/build/intermediates/res/merged/androidTest/debug/layout-v14/ua_fragment_message_list.xml",
+        "source": "/Users/colinvongrimmenstein/.gradle/caches/transforms-1/files-1.1/urbanairship-sdk-8.0.4.aar/0b40ea7be68d2a9e0abce5cbba8579da/res/layout-v14/ua_fragment_message_list.xml"
+    },
+    {
+        "merged": "/Users/colinvongrimmenstein/Development/App/oob_app/OobeoApp/node_modules/react-native-ua/android/build/intermediates/res/merged/androidTest/debug/layout-v14/ua_fragment_no_message_selected.xml",
+        "source": "/Users/colinvongrimmenstein/.gradle/caches/transforms-1/files-1.1/urbanairship-sdk-8.0.4.aar/0b40ea7be68d2a9e0abce5cbba8579da/res/layout-v14/ua_fragment_no_message_selected.xml"
+    }
+]
